@@ -24,7 +24,7 @@ You'll need Windows and Visual Studio with the .NET desktop development tools in
 
 1. Clone the repository or download the source code.
 2. Open the project folder.
-3. Open the `.sln` file in Visual Studio, if available.
+3. Open the `.csproj` file in Visual Studio, if available.
 4. Let Visual Studio restore the required NuGet packages.
 5. Select `Release` as the build configuration.
 6. Build the project.
